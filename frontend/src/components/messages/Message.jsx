@@ -50,9 +50,9 @@ const Message = ({ message }) => {
                 {messageContent}
             </div>
             <div className='chat-footer opacity-50 text-xs flex gap-1 items-center'>
-                <Button onClick={()=>ask("translate")}>Translate</Button>
+                <button onClick={()=>ask("translate")}>Translate</button>
                 
-                <Button onClick={ask}>Summary</Button>
+                <button onClick={ask}>Summary</button>
                 {formattedTime}
             </div>
         </div>
