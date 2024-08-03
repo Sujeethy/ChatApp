@@ -19,7 +19,7 @@ const Message = ({ message }) => {
     const ask = async (v) => {
         try {
             
-            const res = await fetch('http://localhost:5000/api/ask', {
+            const res = await fetch('/api/ask', {
                 method: 'POST',
                 mode: 'cors',
                 headers: {
