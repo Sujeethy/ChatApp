@@ -2,6 +2,13 @@
 
 ChatApp is a real-time messaging application built using modern web technologies. It provides users with a seamless experience for chatting, including features like user authentication, message history, real-time notifications, and more. The app is powered by Node.js, Express, MongoDB, and React, and uses Socket.io for real-time communication.
 
+![image](https://github.com/user-attachments/assets/9029e663-31c4-459f-8814-177a907c64ed)
+
+![image](https://github.com/user-attachments/assets/5a5aca3c-9ec8-4c8b-ae1c-7428d97efcce)
+
+![image](https://github.com/user-attachments/assets/304e4536-7189-4f34-8ffc-4e7bb3697d22)
+
+
 ## Features
 
 - **User Authentication:** Secure signup and login using JWT-based authentication.
